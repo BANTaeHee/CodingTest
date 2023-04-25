@@ -1,6 +1,6 @@
 package Programmers2;
 
-public class Drainage_N {
+public class Multiple_N {
 
 	public static int solution(int num, int n) {
         int answer = 0;
